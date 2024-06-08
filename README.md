@@ -75,6 +75,11 @@ https://github.com/muhanzhang/pytorch_DGCNN
 
    Typically, there are two ways to model dynamic systems as dynamic graphs, namely, accumulated graph and time-evolving graph. The accumulated graph automatically and incrementally constructs an entire graph using all vertices and edges until the current timestamp. In contrast, the time-evolving graph is constructed using vertices and edges only appearing in the current timestamp. Therefore, each snapshot represents the graph state at a single instant of time.
 
-## CopyRights
+## License
 
-This technology is protected by patents, thus the code can only be used for research purpose. 
+Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0 International License
+
+The OC4Seq is released under a CC BY-NC 4.0 International License:
+https://creativecommons.org/licenses/by-nc/4.0.
+
+NonCommercial — You can not use the code for commercial purposes.
